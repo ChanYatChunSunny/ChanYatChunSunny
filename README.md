@@ -63,9 +63,9 @@ Since after I graduated from **primary school**
 
   * JS
   
-  * React Native
-  
   * PHP
+  
+  * React Native
   
   * R
   
