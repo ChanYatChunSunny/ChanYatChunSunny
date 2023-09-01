@@ -43,6 +43,8 @@ Since after I graduated from **primary school**
     
   * Java
   
+    * Android Studio
+  
 * **Above average**
 
   * C
